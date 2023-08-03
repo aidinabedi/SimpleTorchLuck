@@ -1,0 +1,4 @@
+displayName = Simple Torch Luck
+author = sexual_lobster
+version = 1.0.1
+side = Client

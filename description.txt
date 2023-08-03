@@ -1,0 +1,3 @@
+Simplifies so that not only biome-specific torches but any torch (incl regular torches) all give the same 0.2 increase in luck, regardless of the biome.
+
+Placed torches on the surface or above are still ignored, like before.
